@@ -6,15 +6,15 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_CHAR_DRIVER_VERSION = '344f6bd1ddf6a3aca44781f656d223c716cc095c'
 # # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # # with ssh keys and the automated build/test system.
 # # Your site should start with git@github.com:
+AESD_CHAR_DRIVER_VERSION = '4d2ddb694bbe964c0fb395a90c4f0c361a3af282'
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-dacannguyen01.git'
 AESD_CHAR_DRIVER_SITE_METHOD = git
 AESD_CHAR_DRIVER_GIT_SUBMODULES = YES
 AESD_CHAR_DRIVER_MODULE_SUBDIRS = aesd-char-driver/
-# AESD_CHAR_DRIVER_SITE = /home/nda/assignments-3-and-later-dacannguyen01
+# AESD_CHAR_DRIVER_SITE = /home/nda/coursera_linux_embedded/assignments-3-and-later-dacannguyen01
 # AESD_CHAR_DRIVER_SITE_METHOD = local
 # AESD_CHAR_DRIVER_MODULE_SUBDIRS = aesd-char-driver/
 
